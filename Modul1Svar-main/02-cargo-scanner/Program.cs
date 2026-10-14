@@ -9,6 +9,7 @@ bool isExactlyAtLimit = false;
 bool hasContainers = false;
 bool countDiffersFromExpected = false;
 
+
 Console.WriteLine($"Overweight: {isOverweight}");
 Console.WriteLine($"Exactly at limit: {isExactlyAtLimit}");
 Console.WriteLine($"Has containers: {hasContainers}");
